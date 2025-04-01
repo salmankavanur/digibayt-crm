@@ -1,10 +1,3 @@
-# Multi-Branch CRM System
-
-A comprehensive Customer Relationship Management (CRM) system built with Next.js, designed to support multiple branches, currencies, and tax systems.
-
-Dashboard
-    ![alt text](image.png))
-
 # 🌐 Multi-Branch CRM System
 
 A comprehensive Customer Relationship Management (CRM) system built with Next.js, designed to support multiple branches, currencies, and tax systems.
