@@ -386,4 +386,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support, please reach out to:
 - Create an issue in the GitHub repository
-- Contact the development team at support@example.com
+- Contact the development team at hello@salmanmp.me
